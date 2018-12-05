@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner: 
   name: Pranay Kumar
-  avatar: web_pic.jpg #webpage photo
+  avatar: bio-photo.jpg #webpage photo
   bio: "Computer Engineering, Texas A&M University, College Station "
   email: epranaykumar@tamu.edu
   disqus-shortname:
